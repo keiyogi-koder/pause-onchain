@@ -1,6 +1,5 @@
 # pause — practicing pause on-chain
-
-**pause** is a minimal, reflective self-regulation practice documented on-chain.
+pause — intentional moments of reflective practice, documented on-chain
 This repo contains the brand system, voice guidelines, prompts, and posting templates.
 
 ## Core identity
